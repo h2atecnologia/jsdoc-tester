@@ -1,0 +1,7 @@
+{
+  "docset" : {
+    "name": "Youpi",
+    "icon": "test/fixtures/books8.png",
+    "enableJavascript": true
+  }
+}
